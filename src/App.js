@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 
-import "./App.css";
 import SongInfoModal from "./components/SongInfoModal";
 import TopList from "./components/TopList";
 

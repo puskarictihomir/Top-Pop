@@ -63,3 +63,7 @@ select {
   font-weight: 700;
   padding: 8px 12px;
 }
+
+.App {
+  text-align: center;
+}
